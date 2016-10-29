@@ -6,5 +6,8 @@ Added
 Normal brain MRI images</br>
 Clustering code</br>
 Segmentation code</br>
+High boost filter</br>
+Thresholding</br>
+GLCM features</br>
 
-*Harddisk crashed, redo and upload the work done in last 2 weeks.*
+<!--*Harddisk crashed, redo and upload the work done in last 2 weeks.*-->
