@@ -11,5 +11,7 @@ Thresholding</br>
 GLCM features</br>
 </br>
 CHECK IF ALL FILES UPLOADED
+</br>
+check the scope for FCM(Fuzzy C means)
 
 <!--*Harddisk crashed, redo and upload the work done in last 2 weeks.*-->
