@@ -9,5 +9,7 @@ Segmentation code</br>
 High boost filter</br>
 Thresholding</br>
 GLCM features</br>
+</br>
+CHECK IF ALL FILES UPLOADED
 
 <!--*Harddisk crashed, redo and upload the work done in last 2 weeks.*-->
